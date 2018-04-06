@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">NoteBuddy</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string-array name="Branches">
+        <item>Information Technology</item>
+        <item>Computer Science</item>
+        <item>Mechanical</item>
+        <item>Electrical</item>
+        <item>Electronics</item>
+        <item>Civil</item>
+        <item>Chemical</item>
+        <item>Public Notes</item>
+    </string-array>
+    <string-array name="Year">
+        <item>FIRST YEAR</item>
+        <item>SECOND YEAR</item>
+        <item>THIRD YEAR</item>
+        <item>FOURTH YEAR</item>
+    </string-array>
+</resources>
